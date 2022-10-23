@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://gilaxy04ytbcompte2.github.io/loowriters/storage/img/background.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo a {
+    padding: 0px 20px;
+    border: 1px solid transparent;
+    height: 10px;
+    width: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    float: left;
+    display: flex;
+    margin-top: 20px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    border: 1px solid transparent;
+    margin: 10px;
+    border-radius: 5px;
+    transition: 0.6s ease;
+    cursor: pointer;
+}
+
+ul li a:hover {
+    background: #fff;
+    color: #000;
+    border-radius: 10px;
+}
+
+ul li.active a {
+    background: #fff;    
+    color: #000;
+}
+
+.navBar {
+    max-width: 114rem;
+    margin: 0 auto;
+}
+
+.titre {
+    color: #fff;
+    font-size: 40px;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+    
+.text {
+    font-size: 27px;
+    position: absolute;
+    top: 49%;
+    left: 46%;
+    transform: translate(-80%, 132%);
+}
+
+.bouton {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bouton a {
+    border: 1px solid #fff;
+    border-radius: 50px;
+    text-decoration: none;
+    padding: 10px 18.5px;
+}
+
+.btn {
+    transition: 00.6s ease;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #000;
+}
