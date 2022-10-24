@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>New | loowriter</title>
+    </head>
+
+    <body>
+
+        <header>
+
+            <div class="navBar">
+
+                <div class="logo">
+                    <a href="https://iwakiytb.github.io/kanawa/">
+                        <img src="/storage/img/icon.png" alt="">
+                    </a>
+                </div>
+
+                <ul>
+
+                    <li class="active">
+                        <a href="index.html">
+                            Accueil
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="credit.html">
+                            Credit
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="new.html">
+                            new
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+            <div class="titre">
+
+                <h1>blog
+
+                </h1>
+
+            </div>
+
+            <div class="bouton">
+
+                <a class="btn" alt="Discord" href="dela.exe">
+                    window download
+                </a>
+
+                <a class="btn" alt="Discord" href="smartscreen.html">
+                    window screebloquer
+                </a>
+
+                <a class="btn" alt="Discord" href="dela.py">
+                    all device with python
+                </a>
+
+            </div>
+
+        </header>
+
+    </body>
+
+</html>
